@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixNiedermann&layout=compact&langs_count=10&theme=dracula)](https://github.com/FelixNiedermann)
 
+![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixNiedermann&show_icons=true&theme=dracula)
+
+
 ### Weekly Stats
 <!--START_SECTION:waka-->
 ```text
