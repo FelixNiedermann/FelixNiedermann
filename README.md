@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Languages
+### Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixNiedermann&layout=compact&langs_count=10&theme=dracula)](https://github.com/FelixNiedermann)
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixNiedermann&layout=compact&langs_count=10&theme=dracula)](https://github.com/FelixNiedermann) | ![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixNiedermann&show_icons=true&theme=dracula) |
 
-![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelixNiedermann&show_icons=true&theme=dracula)
-
-
-### Weekly Stats
+### Wakatime Weekly Stats
 <!--START_SECTION:waka-->
 ```text
 TypeScript   1 hr 21 mins    ████████░░░░░░░░░░░░░░░░░   31.72 % 
