@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixNiedermann&layout=compact&langs_count=10)](https://github.com/denvermullets)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelixNiedermann&layout=compact&langs_count=10&theme=dracula)](https://github.com/FelixNiedermann)
 
 ### Weekly Stats
 <!--START_SECTION:waka-->
