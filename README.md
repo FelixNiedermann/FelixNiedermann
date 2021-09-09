@@ -16,4 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+```text
+TypeScript   1 hr 21 mins    ████████░░░░░░░░░░░░░░░░░   31.72 % 
+HTML         1 hr 1 min      ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+JSON         55 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.61 % 
+JavaScript   42 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+C#           7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+```
 <!--END_SECTION:waka-->
