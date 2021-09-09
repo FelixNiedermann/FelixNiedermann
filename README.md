@@ -1,15 +1,9 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently **trying to** learning **Machine Learning / AI**
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [website](https://felixniedermann.ch)
-- ⚡ Fun fact: ...
-
+- 🌱 I’m currently **trying to** learn **Machine Learning / AI**
+- 🤔 I’m looking for help with **Machine Learning / AI**
+- 📫 How to reach me: [felixniedermann.ch](https://felixniedermann.ch)
+- ⚡ Fun fact: **I love calisthenics**
 
 ### Github Stats
 
