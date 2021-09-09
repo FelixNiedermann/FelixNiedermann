@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvermullets&layout=compact&langs_count=10)](https://github.com/denvermullets)
+
+### Weekly Stats
 <!--START_SECTION:waka-->
 ```text
 TypeScript   1 hr 21 mins    ████████░░░░░░░░░░░░░░░░░   31.72 % 
