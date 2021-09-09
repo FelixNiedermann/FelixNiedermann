@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m Felix, a software engineer based in Stans @[SoftwareOne](https://www.softwareone.com/en-ch/). 
+
 - 🌱 I’m currently **trying to** learn **Machine Learning / AI**
 - 🤔 I’m looking for help with **Machine Learning / AI**
 - 📫 How to reach me: [felixniedermann.ch](https://felixniedermann.ch)
