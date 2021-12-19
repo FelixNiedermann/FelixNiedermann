@@ -16,8 +16,8 @@ I’m Felix, a software engineer based in Stans, Switzerland @[SoftwareOne](http
 ### Wakatime Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-SCSS         2 hrs 14 mins   █████████▓░░░░░░░░░░░░░░░   38.70 % 
-HTML         1 hr 54 mins    ████████▒░░░░░░░░░░░░░░░░   33.02 % 
-TypeScript   1 hr 37 mins    ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+SCSS         2 hrs 14 mins   ████████▓░░░░░░░░░░░░░░░░   35.00 % 
+HTML         2 hrs 10 mins   ████████▓░░░░░░░░░░░░░░░░   34.04 % 
+TypeScript   1 hr 58 mins    ███████▓░░░░░░░░░░░░░░░░░   30.86 % 
 ```
 <!--END_SECTION:waka-->
