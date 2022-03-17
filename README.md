@@ -5,7 +5,7 @@ I’m Felix, a software engineer based in Stans, Switzerland @[SoftwareOne](http
 - 🌱 I’m currently **trying to** learn **Machine Learning / AI**
 - 🤔 I’m looking for help with **Machine Learning / AI**
 - 📫 How to reach me: **[felixniedermann.ch](https://felixniedermann.ch)**
-- ⚡ Fun fact: **I love working out, especially calisthenics 
+- ⚡ Fun fact: **I love working out, especially calisthenics**
 
 ### Github Stats
 
