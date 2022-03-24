@@ -19,7 +19,6 @@ I’m Felix, a software engineer based in Stans, Switzerland @[SoftwareOne](http
 ```text
 TypeScript   56 mins         ██████████████████░░░░░░░   72.48 %
 HTML         21 mins         ███████░░░░░░░░░░░░░░░░░░   27.52 %
-Go           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
