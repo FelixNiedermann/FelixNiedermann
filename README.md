@@ -17,8 +17,11 @@ I’m Felix, a software engineer based in Stans, Switzerland @[SoftwareOne](http
 <!--START_SECTION:waka-->
 
 ```text
-Groovy       0 secs          ████████████████████░░░░░   79.53 %
-Properties   0 secs          █████░░░░░░░░░░░░░░░░░░░░   20.47 %
+C#              5 hrs 29 mins   ████████████▒░░░░░░░░░░░░   49.70 %
+PHP             4 hrs 32 mins   ██████████▒░░░░░░░░░░░░░░   41.04 %
+Python          44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+XML             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Other           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
