@@ -17,10 +17,10 @@ I’m Felix, a software engineer based in Stans, Switzerland @[SoftwareOne](http
 <!--START_SECTION:waka-->
 
 ```text
-C++           26 hrs 3 mins   ████████████████████████▓   98.08 %
-JSON          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-INI           9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Objective-C   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+C++           31 hrs 10 mins  ████████████████████████▓   98.28 %
+JSON          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+INI           9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Objective-C   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
