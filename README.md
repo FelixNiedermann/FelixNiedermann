@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Felix, a software engineer based in Stans, Switzerland @[SoftwareOne](https://www.softwareone.com/en-ch/). 
+I’m Felix, a software engineer based in lucerne, Switzerland.
 
 - 🌱 I’m currently **trying to** learn **Machine Learning / AI**
 - 🤔 I’m looking for help with **Machine Learning / AI**
