@@ -17,9 +17,9 @@ I’m Felix, a software engineer based in lucerne, Switzerland.
 <!--START_SECTION:waka-->
 
 ```text
-C++     4 hrs 9 mins    ██████████████████████░░░   88.09 %
-INI     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-Other   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+C++     3 hrs 50 mins   █████████████████████▓░░░   87.22 %
+INI     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+Other   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
 ```
 
 <!--END_SECTION:waka-->
